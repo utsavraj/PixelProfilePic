@@ -1,4 +1,4 @@
----- README -----
+## README
 The font file in this archive was created using Fontstruct the free, online
 font-building tool.
 This font was created by “Greenma201”.
@@ -20,13 +20,13 @@ right font from scratch, let our 20 years of experience work for you.
 
 Fontstruct is copyright ©2011 Rob Meek
 
-LEGAL NOTICE:
+### LEGAL NOTICE:
 In using this font you must comply with the licensing terms described in the
 file “license.txt” included with this archive.
 If you redistribute the font file in this archive, it must be accompanied by
 all the other files from this archive, including this one.
 
----- LICENSE -----
+## LICENSE
 
 The FontStruction “Pixelated”
 (http://fontstruct.com/fontstructions/show/426637) by “Greenma201” is
