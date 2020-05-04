@@ -11,7 +11,7 @@ Try Fontstruct at http://fontstruct.com
 
 It’s easy and it’s fun.
 
-###### NOTE FOR FLASH USERS: Fontstruct fonts (fontstructions) are optimized for Flash. If the font in this archive is a pixel font, it is best displayed at a font-size of 8.
+##### NOTE FOR FLASH USERS: Fontstruct fonts (fontstructions) are optimized for Flash. If the font in this archive is a pixel font, it is best displayed at a font-size of 8.
 
 Fontstruct is sponsored by FontShop.
 
