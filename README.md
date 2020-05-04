@@ -21,7 +21,7 @@ Blank Space size of Initial = 120 x 120
 Alphabets = 26
 
 #### Case I (Family and Given Name/ Two Initials)
-Unique design = 256 x 2^(((660-120)/30)^2) x 26 x 26 = ***5.914326e+102 unique designs**
+Unique design = 256 x 2^(((660-120)/30)^2) x 26 x 26 = ***5.914326e+102 unique designs***
 
 *Example ~ John Smith*
 
