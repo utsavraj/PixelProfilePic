@@ -44,5 +44,5 @@ Unique design = 256 x 2^((660/30)^2) = ***1.278668e+148 unique designs***
 
 ## Known Limitations
 * Ignores more than two names eg. if middle name is given, takes it as the family name.
-* The font used to get the pixelated effect only supports English.
+* The font used only supports English.
 * The default font used when font folder is not found is a bitmapped font with no alternate sizes.
