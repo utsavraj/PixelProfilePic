@@ -32,10 +32,15 @@ Unique design = 256 x 2^(((660-120)/30)^2) x 26 = ***2.274741e+101 unique design
 
 *Example ~ John or Jackson*
 
+<img src="/Examples/CaseII.PNG" width="150" align="center" >
+
+
 #### Case III (No Family or Given Name / Zero Initial)
 Unique design = 256 x 2^((660/30)^2) = ***1.278668e+148 unique designs***
 
 *Example ~ No name given*
+
+<img src="/Examples/CaseIII.PNG" width="150" align="center" >
 
 ## Known Limitations
 * Ignores more than two names eg. if middle name is given, takes it as the family name.
