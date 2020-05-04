@@ -24,7 +24,7 @@ Alphabets = 26
 Unique design = 256 x 2^(((660-120)/30)^2) x 26 x 26 = ***5.914326e+102 unique designs***
 
 *Example ~ John Smith*
-<img src="/Examples/CaseII.PNG" width="150" align="left" >
+<img src="/Examples/CaseI.PNG" width="150" align="center" >
 
 #### Case II (Family or Given Name / One Initial)
 Unique design = 256 x 2^(((660-120)/30)^2) x 26 = ***2.274741e+101 unique designs***
